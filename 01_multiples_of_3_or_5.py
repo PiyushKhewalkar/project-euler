@@ -5,7 +5,6 @@
 
 # My Solution
 
-
 num = 1000
 
 var_1 = 3
@@ -31,7 +30,7 @@ calculate_sum(list_numbers())
 
 
 
-# Solution given my llm 
+# Solution given by llm 
 
 num = 1000
 total = 0
